@@ -1,0 +1,45 @@
+*************************************************************
+FileName = main.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : main.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : main.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : main.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D14
+*************************************************************
+
